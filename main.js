@@ -1,1 +1,4 @@
-console.log("Hola bruno")
+let nombre = "Lysanderyuno"
+let saludo = "Buenos dias" + " " + nombre
+
+console.log(saludo)
